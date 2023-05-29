@@ -1,0 +1,51 @@
+{
+  "products": [
+    {
+      "name": "dfafdfsdafd",
+      "price": "345353",
+      "cateId": 1,
+      "id": 3
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Category 1"
+    },
+    {
+      "id": 2,
+      "name": "Category 2"
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "email": "user1@gmail.com",
+      "password": "123456",
+      "role": 1
+    },
+    {
+      "id": 2,
+      "email": "user2@gmail.com",
+      "password": "654321",
+      "role": 2
+    },
+    {
+      "email": "laxus2301@gmail.com",
+      "password": "123",
+      "rePassword": "123",
+      "role": 1,
+      "id": 4
+    }
+  ],
+  "roles": [
+    {
+      "id": 1,
+      "name": "admin"
+    },
+    {
+      "id": 2,
+      "name": "user"
+    }
+  ]
+}

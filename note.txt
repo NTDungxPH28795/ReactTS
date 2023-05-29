@@ -1,0 +1,29 @@
+Sử dụng Project Base theo link đính kèm
+ 
+- Xây dựng Router – 1 điểm
+· / - Home page
+· /products - Product Page
+· /products/:id - Product Detail
+· /admin/products - Product Management Page
+· /admin/products/add - Add New Product Page
+· /admin/products/:id/update - Update Product Page
+· /signup – Đăng ký
+· /signin – Đăng nhập
+
+- Hiển thị toàn bộ sản phẩm ra Product Page và Product Management Page – 1 điểm
+
+- Khi click vào sản phẩm sẽ hiển thị chi tiết sản phẩm – 1 điểm
+
+- Thêm mới sản phẩm và điều hướng về trang Product Management Page (có thông báo thêm mới thành công )  - 1 điểm
+
+- Xóa sản phẩm ở Product Management Page (xóa có confirm) – 1 điểm
+
+- Cập nhật sản phẩm (có thông báo thành công) – 1 điểm
+
+- Validate form – 1 điểm
+
+- sử dụng Ant Design – 1 điểm
+
+- Đăng ký, đăng nhập + check quyền khi đăng nhập – 1 điểm
+
+- Áp dụng typescript vào project – 1 điểm
