@@ -29,6 +29,7 @@ const ProductsPage = (props: Iprops) => {
 
     return (
         <div>
+            <h1 style={{ textAlign: 'center' }}>Product Page</h1>
             {pages.map((page, index) => {
                 return (
                     <Row gutter={[16, 16]} key={index}>

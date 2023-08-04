@@ -1,10 +1,58 @@
 {
   "products": [
     {
-      "name": "dfafdfsdafd",
-      "price": "345353",
+      "name": "Product 1",
+      "price": "100",
+      "cateId": 1,
+      "id": 1
+    },
+    {
+      "name": "Product 2",
+      "price": "200",
+      "cateId": 2,
+      "id": 2
+    },
+    {
+      "name": "Product 3",
+      "price": "300",
       "cateId": 1,
       "id": 3
+    },
+    {
+      "name": "Product 4",
+      "price": "400",
+      "cateId": 1,
+      "id": 4
+    },
+    {
+      "name": "Product 5",
+      "price": "500",
+      "cateId": 1,
+      "id": 5
+    },
+    {
+      "name": "Product 6",
+      "price": "600",
+      "cateId": 1,
+      "id": 6
+    },
+    {
+      "name": "Product 7",
+      "price": "700",
+      "cateId": 1,
+      "id": 7
+    },
+    {
+      "name": "Product 8",
+      "price": "800",
+      "cateId": 1,
+      "id": 8
+    },
+    {
+      "name": "Product 9",
+      "price": "900",
+      "cateId": 1,
+      "id": 9
     }
   ],
   "categories": [
@@ -31,7 +79,7 @@
       "role": 2
     },
     {
-      "email": "laxus2301@gmail.com",
+      "email": "Dungx1811@gmail.com",
       "password": "123",
       "rePassword": "123",
       "role": 1,

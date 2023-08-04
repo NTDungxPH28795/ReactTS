@@ -18,9 +18,12 @@ const ProductDetail = (props: IProps) => {
 
     return (
         <div style={{ textAlign: 'center' }}>
-            <h1>{currentProduct?.name}</h1>
-            <p>{currentProduct?.price}</p>
-            <p>{getCategoryName(currentProduct?.cateId)}</p>
+            <h1>Product Detail</h1>
+            <div style={{ textAlign: 'center' }}>
+                <h1>{currentProduct?.name}</h1>
+                <p>{currentProduct?.price}</p>
+                <p>{getCategoryName(currentProduct?.cateId)}</p>
+            </div>
         </div>
     );
 };

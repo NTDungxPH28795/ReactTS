@@ -4,7 +4,7 @@ import React from 'react'
 const FooterHome = () => {
     return (
         <Footer style={{ textAlign: 'center' }}>
-            ©2023 Created by Laxus
+            ©2023 Created by Dungx
         </Footer>
     )
 }
